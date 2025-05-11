@@ -1,0 +1,1 @@
+# inteligencia.documentos.azure
